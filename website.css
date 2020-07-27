@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+  color: gray;
+  font-family: 'Open Sans', arial, sans-serif;}
+
+nav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: right;
+  font-size: 14px;
+  text-align: right;
+  text-transform: uppercase;}
+
+nav a {
+  padding-left: 30px;}
+  
+a:hover, a.current {
+  color: purple;}
+
+a {text-decoration: none; color: gray;}
+
+#title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: left;
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  color: grey;}
+  
+#title:hover {
+  color: purple;}
+
+#nav-item {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);}
+
+#nav-item2 {
+  position: absolute;
+  top: 50%;
+  right: 25%;
+  transform: translate(-50%, -50%);}
+
+#photo-viewer img {
+  max-width: 100%;
+  max-height: 100%;}
+
+#portfolio {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+
+#information {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+
+.form-wrapper {
+  padding: 10%;}
+
+#contact {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
