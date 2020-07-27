@@ -1,2 +1,1 @@
-# Photography-Website
-Photography Website
+Website
