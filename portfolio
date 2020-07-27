@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Portfolio</title>
+		<link rel="stylesheet" href="css/Photography.css" />
+	</head>
+	<body>
+			<header>
+				<a href="index.html" id="title" class="home">Photography</a>
+				<nav>
+				<a href="index.html">home</a>
+				<a href="portfolio.html" class="current">portfolio</a>
+				<a href="about.html">about</a>
+				<a href="contact.html">contact</a>
+				</nav>
+			</header>
+			<section id="content">
+				<div id="portfolio">
+					This is an example of a portfolio section.
+				  </div>
+			</section>
+			<script src="js/jquery-3.5.0.min.js"></script>
+			<script src="js/Photography.js"></script>
+	</body>
+</html>
